@@ -6,7 +6,7 @@ With the majority of my professional experience spent in fast-paced agency setti
 
 ### What I'm Currently Learning (aka Teaching Myself)
 
-- ☕️ **Java** to learn how to make custom Minecraft server mods.
+- ☕️ **Java** to learn how to [make custom Minecraft mods](https://github.com/azntaiji/taijiblocks-1.21).
 - 🧊️ **3D modeling** tools like Blender & BlockBench.
 
 ### Key Skills
