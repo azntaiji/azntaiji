@@ -11,7 +11,7 @@ With the majority of my professional experience spent in fast-paced agency setti
 
 ### Key Skills
 
-- 🧑🏻‍💻 **Graphic Design**: Social & digital marketing materials (static & animations), websites, infographics, decks & presentations, print & signage. [View Portfolio](https://azntaiji.github.io/graphic-design/)
+- 🧑🏻‍💻 **Graphic Design**: Social & digital marketing materials (static & animations), websites, infographics, decks & presentations, print & signage. [View Portfolio](https://azntaiji.github.io/graphic-design)
 - 📸 **Photography & Videography**: Real estate, portraits, weddings & events, drone operator. [View Portfolio](https://zachtaiji.com/tag/photography/)
 - 🕵🏻‍♂️ **Social Listening & Research**: Research & developing complex boolean queries, data mining, data wrangling & preparation, data analysis, visual reporting.
 - ✍️ **PR & Copywriting**: Media outreach, social media content, thought leadership content, blogs. [View Portfolio](https://azntaiji.github.io/stories)
