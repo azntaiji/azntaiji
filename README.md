@@ -25,7 +25,7 @@ With the majority of my professional experience spent in fast-paced agency setti
 - 📊 **Data & BI**: Postgres, BigQuery, MySQL, OpenRefine, Orange, Looker Studio, Netbase/Quid, Linkfluence, BrandWatch, Excel, Google Sheets, Tableau. no-code solutions including SeaTable, Nocodb, mathesar. Working with all sorts of APIs. Python data and analytics libraries like Pandas, mathplotlib. 
 - ✍️ **Writing & Editing**: Word, Google Docs, Obsidian (I love writing in Markdown).
 - 🖥 **Presentations & Decks**: PowerPoint, Keynote, Google Slides.
-- 🎯 **Social & Web**: Google Ads, LinkedIn Ads, SEO tools, Buffer, HootSuite, Sprout Social, Google Analytics, SEMRush, Google Tag Manager, Meta Ads, X/Twotter ads. 
+- 🎯 **Social & Web**: Google Ads, LinkedIn Ads, SEO tools (SEMRush/Ahrefs), Buffer, HootSuite, Sprout Social, Google Analytics, Matomo/Piwik, Google Tag Manager, Meta Ads, X/Twitter ads, Hotjar. 
 - 👨🏻‍💻 **Dev**: Python, Docker, HTML, CSS, JS, PHP, reverse proxy solutions (Nginx/Apache/Traefik), VSCode as my IDE, fish/zsh/bash shells, linux-based server administration (I run my own homelab/server in my spare time), WordPress.
 - 📋 **Getting things done**: Notion, Trello, Slack, Asana, Monday, Todoist, Airtable, and every PM/collaboration/communication/task management tool imaginable.
 - 🦾 **Other stuff**: 3d printing, woodworking, Fusion360, building custom drones, soldering and basic electrical circuitry and power management.
