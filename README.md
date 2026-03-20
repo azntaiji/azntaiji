@@ -6,6 +6,8 @@ With the majority of my professional experience spent in fast-paced agency setti
 
 ### What I'm Currently Learning (aka Teaching Myself)
 
+- 🗂️ ** Data a
+- 🤖 ** AI**: Building RAG models, n8n workflows, custom coded automation workflows that leverage AI models. 
 - ☕️ **Java** to learn how to [make custom Minecraft mods](https://github.com/azntaiji/taijiblocks-1.21).
 - 🧊️ **3D modeling** tools like Blender & BlockBench.
 
@@ -19,11 +21,11 @@ With the majority of my professional experience spent in fast-paced agency setti
 ### Software, Tools, and Technologies I Use
 
 - 🎨 **Static Design**: Figma, Sketch, Photoshop, Lightroom, Illustrator, Adobe Creative Suite.
-- 📹 **Video & Motion**: After Effects, Premiere Pro, Final Cut Pro, Davinci Resolve, Apple Motion.
+- 📹 **Video & Motion**: After Effects, Premiere Pro, Final Cut Pro, Davinci Resolve, Apple Motion. Audio production and editing tools including Adobe Audition and Riverside. 
 - 📊 **Data & BI**: OpenRefine, Orange, Looker Studio, Netbase/Quid, Linkfluence, BrandWatch, Excel, Google Sheets, Tableau.
 - ✍️ **Writing & Editing**: Word, Google Docs, Obsidian (I love writing in Markdown).
 - 🖥 **Presentations & Decks**: PowerPoint, Keynote, Google Slides.
-- 🎯 **Social & Web**: Google Ads, LinkedIn Ads, SEO tools, Buffer, HootSuite, Sprout Social, Google Analytics, SEMRush.
+- 🎯 **Social & Web**: Google Ads, LinkedIn Ads, SEO tools, Buffer, HootSuite, Sprout Social, Google Analytics, SEMRush, Google Tag Manager. 
 - 👨🏻‍💻 **Dev**: Docker, HTML, CSS, JS, PHP, MySQL/PostGres, Nginx/Apache, VSCode, fish/zsh/bash, server administration (I run my own homelab/server in my spare time), Python, WordPress.
 - 📋 **Getting things done**: Notion, Trello, Slack, Asana, Todoist, Airtable, and every PM/collaboration/communication/task management tool imaginable.
 - 🦾 **Other stuff**: 3d printing, woodworking, Fusion360, building custom drones, soldering and basic electrical circuitry and power management.
