@@ -22,7 +22,7 @@ With the majority of my professional experience spent in fast-paced agency setti
 
 - 🎨 **Static Design**: Figma, Sketch, Photoshop, Lightroom, Illustrator, Adobe Creative Suite.
 - 📹 **Video & Motion**: After Effects, Premiere Pro, Final Cut Pro, Davinci Resolve, Apple Motion. Audio production and editing tools including Adobe Audition and Riverside. 
-- 📊 **Data & BI**: Postgres, BigQuery, MySQL, OpenRefine, Orange, Looker Studio, Netbase/Quid, Linkfluence, BrandWatch, Excel, Google Sheets, Tableau. no-code solutions including SeaTable, Nocodb, mathesar. Python data and analytics libraries like Pandas, mathplotlib. 
+- 📊 **Data & BI**: Postgres, BigQuery, MySQL, OpenRefine, Orange, Looker Studio, Netbase/Quid, Linkfluence, BrandWatch, Excel, Google Sheets, Tableau. no-code solutions including SeaTable, Nocodb, mathesar. Working with all sorts of APIs. Python data and analytics libraries like Pandas, mathplotlib. 
 - ✍️ **Writing & Editing**: Word, Google Docs, Obsidian (I love writing in Markdown).
 - 🖥 **Presentations & Decks**: PowerPoint, Keynote, Google Slides.
 - 🎯 **Social & Web**: Google Ads, LinkedIn Ads, SEO tools, Buffer, HootSuite, Sprout Social, Google Analytics, SEMRush, Google Tag Manager, Meta Ads, X/Twotter ads. 
