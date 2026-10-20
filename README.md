@@ -7,7 +7,7 @@ With the majority of my professional experience spent in fast-paced agency setti
 ### What I'm Currently Learning (aka Teaching Myself)
 
 - ☁️ **Cloud-native Data Engineering**: Architecting a data lakehouse on Google Cloud Platform using Medallion Architecture — designing schema strategy, partitioning, and tiered storage layers (bronze/silver/gold) in GCS with analytical serving in BigQuery. Building and maintaining ETL pipelines that ingest from upstream source systems and transform data for downstream analytics and reporting. 
-- 🤖 **AI and Automation**: Designing RAG pipelines for context-aware retrieval over internal datasets, building workflow automation in n8n and Python, and integrating LLMs (via API and local inference) for data enrichment, generative.  
+- 🤖 **AI and Automation**: Designing RAG pipelines for context-aware retrieval over internal datasets, building workflow automation in n8n and Python, and integrating LLMs (via API and local inference) for data enrichment, generative. Creating agentic workflows for use in platforms like ChatGPT and Claude: custom MCP servers and connectors, plugins, skills, and more.
 - ☕️ **Java** to learn how to [make custom Minecraft mods](https://github.com/azntaiji/taijiblocks-1.21).
 - 🧊️ **3D modeling** tools like Blender & BlockBench.
 
