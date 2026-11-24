@@ -12,6 +12,7 @@ Previously, I spent over a decade in PR, social media, and digital marketing str
 - 🤖 **AI and Automation**: Designing RAG pipelines for context-aware retrieval over internal datasets, building workflow automation in n8n and Python, and integrating LLMs (via API and local inference) for data enrichment, generative. Creating agentic workflows for use in platforms like ChatGPT and Claude: custom MCP servers and connectors, plugins, skills, and more.
 - ☕️ **Java** to learn how to [make custom Minecraft mods](https://github.com/azntaiji/taijiblocks-1.21).
 - 🧊️ **3D modeling** tools like Blender & BlockBench.
+- 👾 Isometric pixel art in Aseprite.
 
 ### Key Skills
 
