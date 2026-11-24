@@ -1,8 +1,10 @@
 ## 👋 Hi, I’m Zach Taiji.
 
-Professionally, I'm a graphic designer, web designer, and data visualizatiom engineer that works primarily with pharmaceutical companies, medical device manufacturers, and healthcare non-profits. Previously, I spent over a decade living and breathing PR, social media marketing, and digital marketing strategy—serving technology companies of all sizes across the cybersecurity, space, blockchain, artificial intelligence, fintech, and cloud computing verticals.
+I'm an automation, systems, and data engineer at a [marketing and digital agency](https://princeton10.net) for pharmaceutical companies, medical device manufacturers, and healthcare non-profits. I also design (graphics, web, decks), do freelance WordPress and SEO work, and run a homelab in my spare time.
 
-With the majority of my professional experience spent in fast-paced agency settings—and the occasional freelance/side-project—**the skills I've acquired are almost entirely self-taught**. I also have a strong desire to understand and learn complex systems, processes, and technologies, which I partially attribute to my [neurodivergent brain](https://zachtaiji.com/working-from-home-with-adhd/).
+Previously, I spent over a decade in PR, social media, and digital marketing strategy for tech companies across cybersecurity, space, blockchain, AI, fintech, and cloud computing.
+
+**Almost everything I know is self-taught.** I started with HTML, custom Winamp skins, and PowerPoint presentations for my elementary school's board as a kid and never stopped taking things apart to see how they work. I credit a lot of that to my [neurodivergent brain](https://zachtaiji.com/working-from-home-with-adhd/).
 
 ### What I'm Currently Learning (aka Teaching Myself)
 
